@@ -1,0 +1,146 @@
+﻿@{ Layout = null; }
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formulario de Registro de Usuarios</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 20px;
+        }
+
+        .container {
+            max-width: 400px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #ffffff;
+            border-radius: 5px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        h2 {
+            text-align: center; /* Centrando el título */
+            margin-bottom: 20px;
+            font-size: 18px;
+            color: #333;
+        }
+
+        label {
+            display: block;
+            margin-bottom: 8px;
+            color: #333;
+            font-weight: bold;
+        }
+
+        input[type="text"],
+        input[type="email"],
+        input[type="password"],
+        select {
+            width: 100%;
+            padding: 8px;
+            margin-bottom: 10px;
+            border: 1px solid #ccc;
+            border-radius: 3px;
+            box-sizing: border-box;
+            font-size: 14px;
+        }
+
+        input[type="checkbox"] {
+            margin-right: 10px;
+        }
+
+        .button-container {
+            text-align: center;
+            margin-top: 20px;
+        }
+
+        button {
+            padding: 10px 20px;
+            font-size: 14px;
+            border: none;
+            border-radius: 3px;
+            cursor: pointer;
+            background-color: #007bff;
+            color: white;
+            margin: 5px;
+        }
+
+            button:hover {
+                background-color: #0056b3;
+            }
+
+        .button-container button.cancel {
+            background-color: #6c757d;
+        }
+
+            .button-container button.cancel:hover {
+                background-color: #5a6268;
+            }
+
+        .login-link {
+            display: block;
+            text-align: right;
+            margin-top: 10px;
+            font-size: 14px;
+        }
+
+            .login-link a {
+                color: #007bff;
+                text-decoration: none;
+            }
+
+                .login-link a:hover {
+                    text-decoration: underline;
+                }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+
+        <h2>Registro de usuario</h2>
+
+        <form action="#" method="post">
+            <label for="identificacion">Identificación:</label>
+            <input type="text" id="identificacion" name="identificacion" value="1719184526" required>
+
+            <label for="nombre">Nombre:</label>
+            <input type="text" id="nombre" name="nombre" value="Jorge" required>
+
+            <label for="apellido">Apellido:</label>
+            <input type="text" id="apellido" name="apellido" value="Chapaca" required>
+
+            <label for="correo">Correo:</label>
+            <input type="email" id="correo" name="correo" value="jorge.chapaca23@correo.com" required>
+
+            <label for="activo">
+                <input type="checkbox" id="activo" name="activo" checked> Activo
+            </label>
+
+            <label for="tienda">Tienda:</label>
+            <select id="tienda" name="tienda">
+                <option value="norte">Tienda Norte</option>
+                <option value="sur">Tienda Sur</option>
+                <option value="centro">Tienda Centro</option>
+            </select>
+
+            <label for="contrasena">Contraseña:</label>
+            <input type="password" id="contrasena" name="contrasena" value="****" required>
+
+            <div class="button-container">
+                <button type="submit">Guardar</button>
+                <button type="button" class="cancel">Cancelar</button>
+            </div>
+
+            <div class="login-link">
+                <a href="#">Iniciar Sesión</a>
+            </div>
+        </form>
+    </div>
+
+</body>
+</html>

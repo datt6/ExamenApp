@@ -1,0 +1,105 @@
+﻿﻿@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Login Page</title>
+    <!-- Bootstrap 4 CDN -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/ SmfG8TGTX5xOe3MOyVTzzXNkfPp9aW8liuXoPKFoOJwJERaK3lwPmo" crossorigin="anonymous">
+    <!-- FontAwesome CDN -->
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" integrity="sha384-mzrE5aqm1jFenmfsQC5I3B4vQ/ROS7bs3IO2FmfFSdUsWltYt8v7n7f7NAU" crossorigin="anonymous">
+    <!-- Custom styles -->
+    <link rel="stylesheet" type="text/css" href="styles.css">
+    <link href="//maxcdn.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
+    <style>
+        body {
+            background-color: #d6b3ff; /* Fondo lila */
+            height: 100vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+
+        .card {
+            width: 400px; /* Ajustar el ancho */
+            background-color: rgba(255, 255, 255, 0.85); /* Fondo semitransparente */
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+        }
+
+        .login_btn {
+            background-color: #6a1b9a; /* Color del botón */
+            color: white;
+        }
+
+            .login_btn:hover {
+                background-color: #4a0072; /* Color del botón al pasar el cursor */
+            }
+
+        .social_icon {
+            margin-top: 10px;
+        }
+
+            .social_icon span {
+                font-size: 40px; /* Tamaño de los iconos */
+                margin-left: 10px;
+                margin-right: 10px;
+                color: #fff; /* Color blanco para los iconos */
+            }
+
+                .social_icon span:hover {
+                    color: #d6b3ff; /* Efecto hover en los iconos */
+                }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="d-flex justify-content-center h-100">
+            <div class="card">
+                <div class="card-header">
+                    <h3 class="text-center">Iniciar Sesión</h3>
+                    <div class="d-flex justify-content-center social_icon">
+                        <span><i class="fab fa-facebook-square"></i></span>
+                        <span><i class="fab fa-google-plus-square"></i></span>
+                        <span><i class="fab fa-twitter-square"></i></span>
+                    </div>
+                </div>
+                <div class="card-body">
+                    <form action="@Url.Action("Autenticar", "Acceso")" method="post">
+                        <div class="input-group form-group">
+                            <div class="input-group-prepend">
+                                <span class="input-group-text"><i class="fas fa-envelope"></i></span>
+                            </div>
+                            <input type="text" name="correo" class="form-control" placeholder="usuario">
+                        </div>
+                        <div class="input-group form-group">
+                            <div class="input-group-prepend">
+                                <span class="input-group-text"><i class="fas fa-key"></i></span>
+                            </div>
+                            <input type="password" name="clave" class="form-control" placeholder="contraseña">
+                        </div>
+                        @if (ViewData["Mensaje"] != null)
+                        {
+                            <div class="alert alert-danger" role="alert">
+                                @ViewData["Mensaje"]
+                            </div>
+                        }
+                        <div class="form-group">
+                            <input type="submit" value="Login" class="btn float-right login_btn">
+                        </div>
+                    </form>
+                </div>
+                <div class="card-footer">
+                    <div class="d-flex justify-content-center">
+                        No tienes cuenta? <a href="@Url.Action("Registrar", "Acceso")"> Registrate Aquí</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script src="//maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+</body>
+</html>

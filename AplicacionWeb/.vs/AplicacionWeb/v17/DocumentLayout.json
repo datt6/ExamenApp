@@ -1,0 +1,359 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DKIDDO\\Documents\\Nueva carpeta\\AplicacionWebNomina\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5CE261FB-E686-4D02-91BE-F26B58523EF9}|AplicacionWebNomina.csproj|c:\\users\\dkiddo\\documents\\nueva carpeta\\aplicacionwebnomina\\views\\orden\\registrarorden.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5CE261FB-E686-4D02-91BE-F26B58523EF9}|AplicacionWebNomina.csproj|solutionrelative:views\\orden\\registrarorden.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CE261FB-E686-4D02-91BE-F26B58523EF9}|AplicacionWebNomina.csproj|c:\\users\\dkiddo\\documents\\nueva carpeta\\aplicacionwebnomina\\views\\acceso\\autenticar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5CE261FB-E686-4D02-91BE-F26B58523EF9}|AplicacionWebNomina.csproj|solutionrelative:views\\acceso\\autenticar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CE261FB-E686-4D02-91BE-F26B58523EF9}|AplicacionWebNomina.csproj|c:\\users\\dkiddo\\documents\\nueva carpeta\\aplicacionwebnomina\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CE261FB-E686-4D02-91BE-F26B58523EF9}|AplicacionWebNomina.csproj|solutionrelative:migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CE261FB-E686-4D02-91BE-F26B58523EF9}|AplicacionWebNomina.csproj|c:\\users\\dkiddo\\documents\\nueva carpeta\\aplicacionwebnomina\\migrations\\202408261900350_agregarordencompra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CE261FB-E686-4D02-91BE-F26B58523EF9}|AplicacionWebNomina.csproj|solutionrelative:migrations\\202408261900350_agregarordencompra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CE261FB-E686-4D02-91BE-F26B58523EF9}|AplicacionWebNomina.csproj|c:\\users\\dkiddo\\documents\\nueva carpeta\\aplicacionwebnomina\\controllers\\ordencomprascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CE261FB-E686-4D02-91BE-F26B58523EF9}|AplicacionWebNomina.csproj|solutionrelative:controllers\\ordencomprascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CE261FB-E686-4D02-91BE-F26B58523EF9}|AplicacionWebNomina.csproj|c:\\users\\dkiddo\\documents\\nueva carpeta\\aplicacionwebnomina\\models\\ordencompra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CE261FB-E686-4D02-91BE-F26B58523EF9}|AplicacionWebNomina.csproj|solutionrelative:models\\ordencompra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CE261FB-E686-4D02-91BE-F26B58523EF9}|AplicacionWebNomina.csproj|c:\\users\\dkiddo\\documents\\nueva carpeta\\aplicacionwebnomina\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CE261FB-E686-4D02-91BE-F26B58523EF9}|AplicacionWebNomina.csproj|solutionrelative:models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CE261FB-E686-4D02-91BE-F26B58523EF9}|AplicacionWebNomina.csproj|C:\\Users\\DKIDDO\\Documents\\Nueva carpeta\\AplicacionWebNomina\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CE261FB-E686-4D02-91BE-F26B58523EF9}|AplicacionWebNomina.csproj|solutionrelative:controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CE261FB-E686-4D02-91BE-F26B58523EF9}|AplicacionWebNomina.csproj|c:\\users\\dkiddo\\documents\\nueva carpeta\\aplicacionwebnomina\\models\\detalleordencompra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CE261FB-E686-4D02-91BE-F26B58523EF9}|AplicacionWebNomina.csproj|solutionrelative:models\\detalleordencompra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CE261FB-E686-4D02-91BE-F26B58523EF9}|AplicacionWebNomina.csproj|c:\\users\\dkiddo\\documents\\nueva carpeta\\aplicacionwebnomina\\views\\acceso\\registrar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5CE261FB-E686-4D02-91BE-F26B58523EF9}|AplicacionWebNomina.csproj|solutionrelative:views\\acceso\\registrar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CE261FB-E686-4D02-91BE-F26B58523EF9}|AplicacionWebNomina.csproj|C:\\Users\\DKIDDO\\Documents\\Nueva carpeta\\AplicacionWebNomina\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CE261FB-E686-4D02-91BE-F26B58523EF9}|AplicacionWebNomina.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CE261FB-E686-4D02-91BE-F26B58523EF9}|AplicacionWebNomina.csproj|C:\\Users\\DKIDDO\\Documents\\Nueva carpeta\\AplicacionWebNomina\\data\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CE261FB-E686-4D02-91BE-F26B58523EF9}|AplicacionWebNomina.csproj|solutionrelative:data\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CE261FB-E686-4D02-91BE-F26B58523EF9}|AplicacionWebNomina.csproj|C:\\Users\\DKIDDO\\Documents\\Nueva carpeta\\AplicacionWebNomina\\controllers\\accesocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CE261FB-E686-4D02-91BE-F26B58523EF9}|AplicacionWebNomina.csproj|solutionrelative:controllers\\accesocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CE261FB-E686-4D02-91BE-F26B58523EF9}|AplicacionWebNomina.csproj|C:\\Users\\DKIDDO\\Documents\\Nueva carpeta\\AplicacionWebNomina\\views\\order\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5CE261FB-E686-4D02-91BE-F26B58523EF9}|AplicacionWebNomina.csproj|solutionrelative:views\\order\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CE261FB-E686-4D02-91BE-F26B58523EF9}|AplicacionWebNomina.csproj|C:\\Users\\DKIDDO\\Documents\\Nueva carpeta\\AplicacionWebNomina\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CE261FB-E686-4D02-91BE-F26B58523EF9}|AplicacionWebNomina.csproj|solutionrelative:controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CE261FB-E686-4D02-91BE-F26B58523EF9}|AplicacionWebNomina.csproj|c:\\users\\dkiddo\\documents\\nueva carpeta\\aplicacionwebnomina\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{5CE261FB-E686-4D02-91BE-F26B58523EF9}|AplicacionWebNomina.csproj|solutionrelative:web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CE261FB-E686-4D02-91BE-F26B58523EF9}|AplicacionWebNomina.csproj|C:\\Users\\DKIDDO\\Documents\\Nueva carpeta\\AplicacionWebNomina\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5CE261FB-E686-4D02-91BE-F26B58523EF9}|AplicacionWebNomina.csproj|solutionrelative:views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CE261FB-E686-4D02-91BE-F26B58523EF9}|AplicacionWebNomina.csproj|C:\\Users\\DKIDDO\\Documents\\Nueva carpeta\\AplicacionWebNomina\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CE261FB-E686-4D02-91BE-F26B58523EF9}|AplicacionWebNomina.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CE261FB-E686-4D02-91BE-F26B58523EF9}|AplicacionWebNomina.csproj|c:\\users\\dkiddo\\documents\\nueva carpeta\\aplicacionwebnomina\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5CE261FB-E686-4D02-91BE-F26B58523EF9}|AplicacionWebNomina.csproj|solutionrelative:views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CE261FB-E686-4D02-91BE-F26B58523EF9}|AplicacionWebNomina.csproj|C:\\Users\\DKIDDO\\Documents\\Nueva carpeta\\AplicacionWebNomina\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CE261FB-E686-4D02-91BE-F26B58523EF9}|AplicacionWebNomina.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "202408261900350_AgregarOrdenCompra.cs",
+              "DocumentMoniker": "C:\\Users\\DKIDDO\\Documents\\Nueva carpeta\\AplicacionWebNomina\\Migrations\\202408261900350_AgregarOrdenCompra.cs",
+              "RelativeDocumentMoniker": "Migrations\\202408261900350_AgregarOrdenCompra.cs",
+              "ToolTip": "C:\\Users\\DKIDDO\\Documents\\Nueva carpeta\\AplicacionWebNomina\\Migrations\\202408261900350_AgregarOrdenCompra.cs",
+              "RelativeToolTip": "Migrations\\202408261900350_AgregarOrdenCompra.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T19:00:40.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RegistrarOrden.cshtml",
+              "DocumentMoniker": "C:\\Users\\DKIDDO\\Documents\\Nueva carpeta\\AplicacionWebNomina\\Views\\Orden\\RegistrarOrden.cshtml",
+              "RelativeDocumentMoniker": "Views\\Orden\\RegistrarOrden.cshtml",
+              "ToolTip": "C:\\Users\\DKIDDO\\Documents\\Nueva carpeta\\AplicacionWebNomina\\Views\\Orden\\RegistrarOrden.cshtml",
+              "RelativeToolTip": "Views\\Orden\\RegistrarOrden.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-26T18:21:38.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrdenComprasController.cs",
+              "DocumentMoniker": "C:\\Users\\DKIDDO\\Documents\\Nueva carpeta\\AplicacionWebNomina\\Controllers\\OrdenComprasController.cs",
+              "RelativeDocumentMoniker": "Controllers\\OrdenComprasController.cs",
+              "ToolTip": "C:\\Users\\DKIDDO\\Documents\\Nueva carpeta\\AplicacionWebNomina\\Controllers\\OrdenComprasController.cs",
+              "RelativeToolTip": "Controllers\\OrdenComprasController.cs",
+              "ViewState": "AQIAAHQAAAAAAAAAAAAIwIIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T16:21:39.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "C:\\Users\\DKIDDO\\Documents\\Nueva carpeta\\AplicacionWebNomina\\Migrations\\Configuration.cs",
+              "RelativeDocumentMoniker": "Migrations\\Configuration.cs",
+              "ToolTip": "C:\\Users\\DKIDDO\\Documents\\Nueva carpeta\\AplicacionWebNomina\\Migrations\\Configuration.cs",
+              "RelativeToolTip": "Migrations\\Configuration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T18:59:55.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Autenticar.cshtml",
+              "DocumentMoniker": "C:\\Users\\DKIDDO\\Documents\\Nueva carpeta\\AplicacionWebNomina\\Views\\Acceso\\Autenticar.cshtml",
+              "RelativeDocumentMoniker": "Views\\Acceso\\Autenticar.cshtml",
+              "ToolTip": "C:\\Users\\DKIDDO\\Documents\\Nueva carpeta\\AplicacionWebNomina\\Views\\Acceso\\Autenticar.cshtml",
+              "RelativeToolTip": "Views\\Acceso\\Autenticar.cshtml",
+              "ViewState": "AQIAAGMAAAAAAAAAAAAAAHMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-26T14:36:57.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrdenCompra.cs",
+              "DocumentMoniker": "C:\\Users\\DKIDDO\\Documents\\Nueva carpeta\\AplicacionWebNomina\\Models\\OrdenCompra.cs",
+              "RelativeDocumentMoniker": "Models\\OrdenCompra.cs",
+              "ToolTip": "C:\\Users\\DKIDDO\\Documents\\Nueva carpeta\\AplicacionWebNomina\\Models\\OrdenCompra.cs",
+              "RelativeToolTip": "Models\\OrdenCompra.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T16:50:04.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\DKIDDO\\Documents\\Nueva carpeta\\AplicacionWebNomina\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\DKIDDO\\Documents\\Nueva carpeta\\AplicacionWebNomina\\Models\\Customer.cs",
+              "RelativeToolTip": "Models\\Customer.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T16:45:49.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Registrar.cshtml",
+              "DocumentMoniker": "C:\\Users\\DKIDDO\\Documents\\Nueva carpeta\\AplicacionWebNomina\\Views\\Acceso\\Registrar.cshtml",
+              "RelativeDocumentMoniker": "Views\\Acceso\\Registrar.cshtml",
+              "ToolTip": "C:\\Users\\DKIDDO\\Documents\\Nueva carpeta\\AplicacionWebNomina\\Views\\Acceso\\Registrar.cshtml",
+              "RelativeToolTip": "Views\\Acceso\\Registrar.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAIwAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-26T16:04:29.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\DKIDDO\\Documents\\Nueva carpeta\\AplicacionWebNomina\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product.cs",
+              "ToolTip": "C:\\Users\\DKIDDO\\Documents\\Nueva carpeta\\AplicacionWebNomina\\Models\\Product.cs",
+              "RelativeToolTip": "Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA0AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T07:26:12.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DetalleOrdenCompra.cs",
+              "DocumentMoniker": "C:\\Users\\DKIDDO\\Documents\\Nueva carpeta\\AplicacionWebNomina\\Models\\DetalleOrdenCompra.cs",
+              "RelativeDocumentMoniker": "Models\\DetalleOrdenCompra.cs",
+              "ToolTip": "C:\\Users\\DKIDDO\\Documents\\Nueva carpeta\\AplicacionWebNomina\\Models\\DetalleOrdenCompra.cs",
+              "RelativeToolTip": "Models\\DetalleOrdenCompra.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T16:51:35.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UsuariosController.cs",
+              "DocumentMoniker": "C:\\Users\\DKIDDO\\Documents\\Nueva carpeta\\AplicacionWebNomina\\Controllers\\UsuariosController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UsuariosController.cs",
+              "ToolTip": "C:\\Users\\DKIDDO\\Documents\\Nueva carpeta\\AplicacionWebNomina\\Controllers\\UsuariosController.cs",
+              "RelativeToolTip": "Controllers\\UsuariosController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T08:29:06.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DbContext.cs",
+              "DocumentMoniker": "C:\\Users\\DKIDDO\\Documents\\Nueva carpeta\\AplicacionWebNomina\\Data\\DbContext.cs",
+              "RelativeDocumentMoniker": "Data\\DbContext.cs",
+              "ToolTip": "C:\\Users\\DKIDDO\\Documents\\Nueva carpeta\\AplicacionWebNomina\\Data\\DbContext.cs",
+              "RelativeToolTip": "Data\\DbContext.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAgwDIAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T08:49:30.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AccesoController.cs",
+              "DocumentMoniker": "C:\\Users\\DKIDDO\\Documents\\Nueva carpeta\\AplicacionWebNomina\\Controllers\\AccesoController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccesoController.cs",
+              "ToolTip": "C:\\Users\\DKIDDO\\Documents\\Nueva carpeta\\AplicacionWebNomina\\Controllers\\AccesoController.cs",
+              "RelativeToolTip": "Controllers\\AccesoController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T07:14:32.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\DKIDDO\\Documents\\Nueva carpeta\\AplicacionWebNomina\\Views\\Order\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Order\\Create.cshtml",
+              "ToolTip": "C:\\Users\\DKIDDO\\Documents\\Nueva carpeta\\AplicacionWebNomina\\Views\\Order\\Create.cshtml",
+              "RelativeToolTip": "Views\\Order\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-26T09:01:38.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\Users\\DKIDDO\\Documents\\Nueva carpeta\\AplicacionWebNomina\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\OrdersController.cs",
+              "ToolTip": "C:\\Users\\DKIDDO\\Documents\\Nueva carpeta\\AplicacionWebNomina\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "Controllers\\OrdersController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T09:00:04.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\DKIDDO\\Documents\\Nueva carpeta\\AplicacionWebNomina\\Web.config",
+              "RelativeDocumentMoniker": "Web.config",
+              "ToolTip": "C:\\Users\\DKIDDO\\Documents\\Nueva carpeta\\AplicacionWebNomina\\Web.config",
+              "RelativeToolTip": "Web.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-08-26T15:46:07.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\DKIDDO\\Documents\\Nueva carpeta\\AplicacionWebNomina\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\Users\\DKIDDO\\Documents\\Nueva carpeta\\AplicacionWebNomina\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAA1wB0AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T07:45:56.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\DKIDDO\\Documents\\Nueva carpeta\\AplicacionWebNomina\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\DKIDDO\\Documents\\Nueva carpeta\\AplicacionWebNomina\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "Views\\Account\\Register.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-26T08:17:09.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\DKIDDO\\Documents\\Nueva carpeta\\AplicacionWebNomina\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\DKIDDO\\Documents\\Nueva carpeta\\AplicacionWebNomina\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "Views\\Account\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-26T07:42:57.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\DKIDDO\\Documents\\Nueva carpeta\\AplicacionWebNomina\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\DKIDDO\\Documents\\Nueva carpeta\\AplicacionWebNomina\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA4AAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T09:40:57.743Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
